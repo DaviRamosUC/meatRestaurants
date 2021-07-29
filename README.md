@@ -39,5 +39,7 @@
 Para poder visualizar esse projeto basta: 
 1. Clona-lo
 2. Abrir um terminal no diretório da pasta
-3. Executar o seguinte comando -> ng serve --open
+3. Executar npm i
+4. Executar json-serv db.json
+5. Executar o seguinte comando -> ng serve --open
 ---
